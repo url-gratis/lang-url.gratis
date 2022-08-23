@@ -11,7 +11,7 @@ Send us pull requests and help improve the language files.
 
 #### 1. Download the example.ts file language.
 
-#### 2. Rename file to language code, example: fr.ts (france) / pt-Br.ts (Portugal/Brazil), you can see code os countrys here https://www.fincher.org/Utilities/CountryLanguageList.shtml . 
+#### 2. Rename file to language code, example: fr.ts (france) / pt-Br.ts (Portugal/Brazil), you can see code of countrys here https://www.fincher.org/Utilities/CountryLanguageList.shtml . 
 
 #### 3. Now open the file and Edit with your prefer program, like sublime, microsoft code, or another.
 
